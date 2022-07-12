@@ -13,8 +13,3 @@
 	url = https://github.com/rexyai/rsparse
 	shallow = true
 	registered = true
-[submodule "sparsio"]
-	path = sparsio
-	url = https://github.com/rexyai/sparsio
-	shallow = true
-	registered = true
