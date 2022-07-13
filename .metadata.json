@@ -6,5 +6,9 @@
   {
     "package": "rsparse",
     "oncran": true
+  },
+  {
+    "package": "sparsio",
+    "oncran": true
   }
 ]
