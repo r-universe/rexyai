@@ -1,6 +1,6 @@
 [
   {
-    "package": "sparsio",
+    "package": "RestRserve",
     "oncran": true
   },
   {
@@ -8,7 +8,7 @@
     "oncran": true
   },
   {
-    "package": "RestRserve",
+    "package": "sparsio",
     "oncran": true
   }
 ]
