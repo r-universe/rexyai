@@ -5,9 +5,6 @@
 [submodule "RestRserve"]
 	path = RestRserve
 	url = https://github.com/rexyai/restrserve
-[submodule "rsparse"]
-	path = rsparse
-	url = https://github.com/rexyai/rsparse
 [submodule "sparsio"]
 	path = sparsio
 	url = https://github.com/rexyai/sparsio
